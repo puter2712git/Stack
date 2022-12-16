@@ -6,7 +6,7 @@
 typedef int element;
 
 
-/* Stack data structure which store string elements */
+/* Stack data structure which store elements */
 struct stack {
   element *data;
   int top;
